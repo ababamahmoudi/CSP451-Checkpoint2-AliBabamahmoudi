@@ -20,9 +20,7 @@ Created three feature branches to simulate a team workflow:
 - Created a PR for each branch against `main`.  
 - Each PR included:
   - A **descriptive title** following the project template.  
-  - Completed PR checklist.  
-  - Screenshots for UI changes (where applicable).  
-  - Links to related issues.  
+  - Completed PR checklist.   
 
 - **Code Review Simulation**:
   - Added at least **2 review comments per PR**.  
@@ -49,5 +47,3 @@ This workflow simulates a 3-person team:
 - PRs ensured code review and feedback.  
 - Merge conflicts were handled systematically and documented.  
 - Squash merges kept the `main` branch history clean and readable.  
-
-This structured approach demonstrates effective collaboration, conflict management, and proper use of GitHub workflows in a team environment.
