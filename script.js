@@ -58,7 +58,7 @@ const searchingForCreatures = (nameOrId) => {
     })
     .catch(() => { alert("There was an error loading the creature you searched for"); });
 };
-
+// TODO: creating a function for emptying the fileds
 const loadingCreature = () => {
   creatureName.innerText = "";
   creatureId.innerText = "";
