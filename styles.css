@@ -19,6 +19,7 @@ header {
     font-size: 40px;
     font-weight: 200;
 }
+/* TODO: edit font for better readablity*/
 #app-name {
     text-align: center;
     font-family: var(--font-style);
