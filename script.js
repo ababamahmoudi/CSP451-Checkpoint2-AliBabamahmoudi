@@ -1,3 +1,4 @@
+// TODO: adding more meaningfull variable names
 const searchInput = document.getElementById("search-input");
 const searchBtn = document.getElementById("search-button");
 const creatureName = document.getElementById("creature-name");
