@@ -1,0 +1,24 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+
+# Dependency directories (choose depending on language)
+node_modules/       # JavaScript/TypeScript
+venv/               # Python virtual environment
+__pycache__/        # Python cache
+*.pyc               # Compiled Python files
+
+# Build output
+dist/
+build/
